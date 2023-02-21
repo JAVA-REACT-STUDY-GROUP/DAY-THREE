@@ -1,0 +1,22 @@
+contructor:
+a constructor is a special method (in oop) used to instantiate a class
+
+
+A class is a blue print;
+An object is an instance of a class;
+
+
+
+Access Modifiers Are Keywords in java that grants access to a given property
+public, private, protected, default
+
+
+OOP
+Object Oriented Programming
+
+-- encapsulation;
+it is used to hide the data members of a class
+it is also used to restrict access
+        getters, setters, constructor, toString Method
+
+
